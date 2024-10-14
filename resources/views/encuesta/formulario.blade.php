@@ -75,95 +75,95 @@
                             <tr>
                                 <td class="border border-gray-300 px-4 py-2">El instructor aclaró las dudas que se presentaron durante el curso</td>
                                 <td class="border border-gray-300 text-center">
-                                    <input type="radio" name="evento_objetivo" value="Totalmente de acuerdo" required>
+                                    <input type="radio" name="instructor_dudas" value="Totalmente de acuerdo" required>
                                 </td>
                                 <td class="border border-gray-300 text-center">
-                                    <input type="radio" name="evento_objetivo" value="Parcialmente de acuerdo" required>
+                                    <input type="radio" name="instructor_dudas" value="Parcialmente de acuerdo" required>
                                 </td>
                                 <td class="border border-gray-300 text-center">
-                                    <input type="radio" name="evento_objetivo" value="Indiferente" required>
+                                    <input type="radio" name="instructor_dudas" value="Indiferente" required>
                                 </td>
                                 <td class="border border-gray-300 text-center">
-                                    <input type="radio" name="evento_objetivo" value="Parcialmente en desacuerdo" required>
+                                    <input type="radio" name="instructor_dudas" value="Parcialmente en desacuerdo" required>
                                 </td>
                                 <td class="border border-gray-300 text-center">
-                                    <input type="radio" name="evento_objetivo" value="Totalmente en desacuerdo" required>
+                                    <input type="radio" name="instructor_dudas" value="Totalmente en desacuerdo" required>
                                 </td>
                             </tr>
 
                             <tr>
                                 <td class="border border-gray-300 px-4 py-2">Los contenidos del material estuvieron estructurados en forma lógica, clara y sencilla</td>
                                 <td class="border border-gray-300 text-center">
-                                    <input type="radio" name="evento_objetivo" value="Totalmente de acuerdo" required>
+                                    <input type="radio" name="contenidos_material" value="Totalmente de acuerdo" required>
                                 </td>
                                 <td class="border border-gray-300 text-center">
-                                    <input type="radio" name="evento_objetivo" value="Parcialmente de acuerdo" required>
+                                    <input type="radio" name="contenidos_material" value="Parcialmente de acuerdo" required>
                                 </td>
                                 <td class="border border-gray-300 text-center">
-                                    <input type="radio" name="evento_objetivo" value="Indiferente" required>
+                                    <input type="radio" name="contenidos_material" value="Indiferente" required>
                                 </td>
                                 <td class="border border-gray-300 text-center">
-                                    <input type="radio" name="evento_objetivo" value="Parcialmente en desacuerdo" required>
+                                    <input type="radio" name="contenidos_material" value="Parcialmente en desacuerdo" required>
                                 </td>
                                 <td class="border border-gray-300 text-center">
-                                    <input type="radio" name="evento_objetivo" value="Totalmente en desacuerdo" required>
+                                    <input type="radio" name="contenidos_material" value="Totalmente en desacuerdo" required>
                                 </td>
                             </tr>
 
                             <tr>
                                 <td class="border border-gray-300 px-4 py-2">Los contenidos del curso son útiles para su desempeño laboral</td>
                                 <td class="border border-gray-300 text-center">
-                                    <input type="radio" name="evento_objetivo" value="Totalmente de acuerdo" required>
+                                    <input type="radio" name="contenidos_curso" value="Totalmente de acuerdo" required>
                                 </td>
                                 <td class="border border-gray-300 text-center">
-                                    <input type="radio" name="evento_objetivo" value="Parcialmente de acuerdo" required>
+                                    <input type="radio" name="contenidos_curso" value="Parcialmente de acuerdo" required>
                                 </td>
                                 <td class="border border-gray-300 text-center">
-                                    <input type="radio" name="evento_objetivo" value="Indiferente" required>
+                                    <input type="radio" name="contenidos_curso" value="Indiferente" required>
                                 </td>
                                 <td class="border border-gray-300 text-center">
-                                    <input type="radio" name="evento_objetivo" value="Parcialmente en desacuerdo" required>
+                                    <input type="radio" name="contenidos_curso" value="Parcialmente en desacuerdo" required>
                                 </td>
                                 <td class="border border-gray-300 text-center">
-                                    <input type="radio" name="evento_objetivo" value="Totalmente en desacuerdo" required>
+                                    <input type="radio" name="contenidos_curso" value="Totalmente en desacuerdo" required>
                                 </td>
                             </tr>
 
                             <tr>
                                 <td class="border border-gray-300 px-4 py-2">Las condiciones físicas y/o virtuales fueron las adecuadas para el desarrollo del evento</td>
                                 <td class="border border-gray-300 text-center">
-                                    <input type="radio" name="evento_objetivo" value="Totalmente de acuerdo" required>
+                                    <input type="radio" name="condiciones_adecuadas" value="Totalmente de acuerdo" required>
                                 </td>
                                 <td class="border border-gray-300 text-center">
-                                    <input type="radio" name="evento_objetivo" value="Parcialmente de acuerdo" required>
+                                    <input type="radio" name="condiciones_adecuadas" value="Parcialmente de acuerdo" required>
                                 </td>
                                 <td class="border border-gray-300 text-center">
-                                    <input type="radio" name="evento_objetivo" value="Indiferente" required>
+                                    <input type="radio" name="condiciones_adecuadas" value="Indiferente" required>
                                 </td>
                                 <td class="border border-gray-300 text-center">
-                                    <input type="radio" name="evento_objetivo" value="Parcialmente en desacuerdo" required>
+                                    <input type="radio" name="condiciones_adecuadas" value="Parcialmente en desacuerdo" required>
                                 </td>
                                 <td class="border border-gray-300 text-center">
-                                    <input type="radio" name="evento_objetivo" value="Totalmente en desacuerdo" required>
+                                    <input type="radio" name="condiciones_adecuadas" value="Totalmente en desacuerdo" required>
                                 </td>
                             </tr>
 
                             <tr>
                                 <td class="border border-gray-300 px-4 py-2">El personal organizador realizó las actividades necesarias para el mejor desarrollo del evento</td>
                                 <td class="border border-gray-300 text-center">
-                                    <input type="radio" name="evento_objetivo" value="Totalmente de acuerdo" required>
+                                    <input type="radio" name="personal_organizador" value="Totalmente de acuerdo" required>
                                 </td>
                                 <td class="border border-gray-300 text-center">
-                                    <input type="radio" name="evento_objetivo" value="Parcialmente de acuerdo" required>
+                                    <input type="radio" name="personal_organizador" value="Parcialmente de acuerdo" required>
                                 </td>
                                 <td class="border border-gray-300 text-center">
-                                    <input type="radio" name="evento_objetivo" value="Indiferente" required>
+                                    <input type="radio" name="personal_organizador" value="Indiferente" required>
                                 </td>
                                 <td class="border border-gray-300 text-center">
-                                    <input type="radio" name="evento_objetivo" value="Parcialmente en desacuerdo" required>
+                                    <input type="radio" name="personal_organizador" value="Parcialmente en desacuerdo" required>
                                 </td>
                                 <td class="border border-gray-300 text-center">
-                                    <input type="radio" name="evento_objetivo" value="Totalmente en desacuerdo" required>
+                                    <input type="radio" name="personal_organizador" value="Totalmente en desacuerdo" required>
                                 </td>
                             </tr>
                         </tbody>
@@ -190,56 +190,56 @@
                         <tr>
                             <td class="border border-gray-300 px-4 py-2">El instructor mostró habilidad para transmitir el contenido del curso</td>
                             <td class="border border-gray-300 text-center">
-                                <input type="radio" name="evento_expectativas" value="Totalmente de acuerdo" required>
+                                <input type="radio" name="instructor_habilidad" value="Totalmente de acuerdo" required>
                             </td>
                             <td class="border border-gray-300 text-center">
-                                <input type="radio" name="evento_expectativas" value="Parcialmente de acuerdo" required>
+                                <input type="radio" name="instructor_habilidad" value="Parcialmente de acuerdo" required>
                             </td>
                             <td class="border border-gray-300 text-center">
-                                <input type="radio" name="evento_expectativas" value="Indiferente" required>
+                                <input type="radio" name="instructor_habilidad" value="Indiferente" required>
                             </td>
                             <td class="border border-gray-300 text-center">
-                                <input type="radio" name="evento_expectativas" value="Parcialmente en desacuerdo" required>
+                                <input type="radio" name="instructor_habilidad" value="Parcialmente en desacuerdo" required>
                             </td>
                             <td class="border border-gray-300 text-center">
-                                <input type="radio" name="evento_expectativas" value="Totalmente en desacuerdo" required>
+                                <input type="radio" name="instructor_habilidad" value="Totalmente en desacuerdo" required>
                             </td>
                         </tr>
                         <tr>
                             <td class="border border-gray-300 px-4 py-2">El instructor expuso de manera clara y precisa el objetivo, el programa y criterios de evaluación del curso</td>
                             <td class="border border-gray-300 text-center">
-                                <input type="radio" name="evento_objetivo" value="Totalmente de acuerdo" required>
+                                <input type="radio" name="instructor_exposicion" value="Totalmente de acuerdo" required>
                             </td>
                             <td class="border border-gray-300 text-center">
-                                <input type="radio" name="evento_objetivo" value="Parcialmente de acuerdo" required>
+                                <input type="radio" name="instructor_exposicion" value="Parcialmente de acuerdo" required>
                             </td>
                             <td class="border border-gray-300 text-center">
-                                <input type="radio" name="evento_objetivo" value="Indiferente" required>
+                                <input type="radio" name="instructor_exposicion" value="Indiferente" required>
                             </td>
                             <td class="border border-gray-300 text-center">
-                                <input type="radio" name="evento_objetivo" value="Parcialmente en desacuerdo" required>
+                                <input type="radio" name="instructor_exposicion" value="Parcialmente en desacuerdo" required>
                             </td>
                             <td class="border border-gray-300 text-center">
-                                <input type="radio" name="evento_objetivo" value="Totalmente en desacuerdo" required>
+                                <input type="radio" name="instructor_exposicion" value="Totalmente en desacuerdo" required>
                             </td>
                         </tr>
 
                         <tr>
                             <td class="border border-gray-300 px-4 py-2">El instructor aclaró las dudas que se presentaron durante el curso</td>
                             <td class="border border-gray-300 text-center">
-                                <input type="radio" name="evento_objetivo" value="Totalmente de acuerdo" required>
+                                <input type="radio" name="instructor_aclara" value="Totalmente de acuerdo" required>
                             </td>
                             <td class="border border-gray-300 text-center">
-                                <input type="radio" name="evento_objetivo" value="Parcialmente de acuerdo" required>
+                                <input type="radio" name="instructor_aclara" value="Parcialmente de acuerdo" required>
                             </td>
                             <td class="border border-gray-300 text-center">
-                                <input type="radio" name="evento_objetivo" value="Indiferente" required>
+                                <input type="radio" name="instructor_aclara" value="Indiferente" required>
                             </td>
                             <td class="border border-gray-300 text-center">
-                                <input type="radio" name="evento_objetivo" value="Parcialmente en desacuerdo" required>
+                                <input type="radio" name="instructor_aclara" value="Parcialmente en desacuerdo" required>
                             </td>
                             <td class="border border-gray-300 text-center">
-                                <input type="radio" name="evento_objetivo" value="Totalmente en desacuerdo" required>
+                                <input type="radio" name="instructor_aclara" value="Totalmente en desacuerdo" required>
                             </td>
                         </tr>
                     </tbody>
@@ -266,57 +266,57 @@
                                 <tr>
                                     <td class="border border-gray-300 px-4 py-2">Las competencias desarrolladas con el evento mejoran su desempeño docente y/o profesional</td>
                                     <td class="border border-gray-300 text-center">
-                                        <input type="radio" name="evento_expectativas" value="Totalmente de acuerdo" required>
+                                        <input type="radio" name="competencias_desarrolladas" value="Totalmente de acuerdo" required>
                                     </td>
                                     <td class="border border-gray-300 text-center">
-                                        <input type="radio" name="evento_expectativas" value="Parcialmente de acuerdo" required>
+                                        <input type="radio" name="competencias_desarrolladas" value="Parcialmente de acuerdo" required>
                                     </td>
                                     <td class="border border-gray-300 text-center">
-                                        <input type="radio" name="evento_expectativas" value="Indiferente" required>
+                                        <input type="radio" name="competencias_desarrolladas" value="Indiferente" required>
                                     </td>
                                     <td class="border border-gray-300 text-center">
-                                        <input type="radio" name="evento_expectativas" value="Parcialmente en desacuerdo" required>
+                                        <input type="radio" name="competencias_desarrolladas" value="Parcialmente en desacuerdo" required>
                                     </td>
                                     <td class="border border-gray-300 text-center">
-                                        <input type="radio" name="evento_expectativas" value="Totalmente en desacuerdo" required>
+                                        <input type="radio" name="competencias_desarrolladas" value="Totalmente en desacuerdo" required>
                                     </td>
                                 </tr>
 
                                 <tr>
                                     <td class="border border-gray-300 px-4 py-2">Las competencias adquiridas con el evento propician el trabajo colaborativo</td>
                                     <td class="border border-gray-300 text-center">
-                                        <input type="radio" name="evento_objetivo" value="Totalmente de acuerdo" required>
+                                        <input type="radio" name="competencias_adquiridas" value="Totalmente de acuerdo" required>
                                     </td>
                                     <td class="border border-gray-300 text-center">
-                                        <input type="radio" name="evento_objetivo" value="Parcialmente de acuerdo" required>
+                                        <input type="radio" name="competencias_adquiridas" value="Parcialmente de acuerdo" required>
                                     </td>
                                     <td class="border border-gray-300 text-center">
-                                        <input type="radio" name="evento_objetivo" value="Indiferente" required>
+                                        <input type="radio" name="competencias_adquiridas" value="Indiferente" required>
                                     </td>
                                     <td class="border border-gray-300 text-center">
-                                        <input type="radio" name="evento_objetivo" value="Parcialmente en desacuerdo" required>
+                                        <input type="radio" name="competencias_adquiridas" value="Parcialmente en desacuerdo" required>
                                     </td>
                                     <td class="border border-gray-300 text-center">
-                                        <input type="radio" name="evento_objetivo" value="Totalmente en desacuerdo" required>
+                                        <input type="radio" name="competencias_adquiridas" value="Totalmente en desacuerdo" required>
                                     </td>
                                 </tr>
 
                                 <tr>
                                     <td class="border border-gray-300 px-4 py-2">Las competencias adquiridas le permitirán mayor comprensión de sus funciones y responsabilidades en la institución</td>
                                     <td class="border border-gray-300 text-center">
-                                        <input type="radio" name="evento_objetivo" value="Totalmente de acuerdo" required>
+                                        <input type="radio" name="competencias_comprension" value="Totalmente de acuerdo" required>
                                     </td>
                                     <td class="border border-gray-300 text-center">
-                                        <input type="radio" name="evento_objetivo" value="Parcialmente de acuerdo" required>
+                                        <input type="radio" name="competencias_comprension" value="Parcialmente de acuerdo" required>
                                     </td>
                                     <td class="border border-gray-300 text-center">
-                                        <input type="radio" name="evento_objetivo" value="Indiferente" required>
+                                        <input type="radio" name="competencias_comprension" value="Indiferente" required>
                                     </td>
                                     <td class="border border-gray-300 text-center">
-                                        <input type="radio" name="evento_objetivo" value="Parcialmente en desacuerdo" required>
+                                        <input type="radio" name="competencias_comprension" value="Parcialmente en desacuerdo" required>
                                     </td>
                                     <td class="border border-gray-300 text-center">
-                                        <input type="radio" name="evento_objetivo" value="Totalmente en desacuerdo" required>
+                                        <input type="radio" name="competencias_comprension" value="Totalmente en desacuerdo" required>
                                     </td>
                                 </tr>
                             </tbody>
@@ -345,7 +345,7 @@
 
             <div class="text-center">
                 <button type="submit" class="w-full py-3 px-6 bg-blue-500 text-white font-bold rounded-lg shadow-md hover:bg-blue-600 transition duration-300 ease-in-out" style="background-color: #1B396A; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 16px;">
-                    Enviar encuesta
+                    Enviar
                 </button>
             </div>
         </form>
