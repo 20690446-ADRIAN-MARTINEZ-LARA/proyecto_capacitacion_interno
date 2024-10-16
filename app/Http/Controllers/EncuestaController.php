@@ -18,9 +18,6 @@ class EncuestaController extends Controller
 {
     // Validación de los datos
     $request->validate([
-        'correo' => 'required|email',
-        'departamento' => 'required|string',
-        'curso' => 'required|exists:cursos,id', // Asegúrate de validar que el curso existe
         'evento' => 'required|string',
         'instructor' => 'required|string',
         'desarrollo' => 'required|string',
@@ -29,25 +26,17 @@ class EncuestaController extends Controller
         // Agrega las demás validaciones aquí...
     ]);
 
-    // Guardar los datos en la tabla encuestas
     EncuestaController::create([
-        'correo' => $request->correo,
-        'departamento' => $request->departamento,
-        'curso_id' => $request->curso,
         'evento' => $request->evento,
         'instructor' => $request->instructor,
         'desarrollo' => $request->desarrollo,
         'participacion' => $request->participacion,
         'comentarios' => $request->comentarios,
-        // Agrega los demás campos aquí...
     ]);
 
     // Redirigir con mensaje de éxito
     return redirect()->route('encuesta.gracias')->with('success', 'Gracias por completar la encuesta.');
 }
-
-
-    // Muestra una página de agradecimiento después de enviar la encuesta
     public function gracias()
     {
         return view('encuesta.gracias');
