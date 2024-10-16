@@ -1,4 +1,3 @@
-@extends('layouts.docente.dashboard')
 <x-appDocente-layout>
 <head>
     <x-slot name="header">
