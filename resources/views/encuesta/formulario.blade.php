@@ -1,6 +1,11 @@
-<!DOCTYPE html>
-<html lang="es">
+@extends('layouts.docente.dashboard')
+<x-appDocente-layout>
 <head>
+    <x-slot name="header">
+        <h2 class="font-semibold text-xl text-white">
+            {{ __('Encuesta') }}
+        </h2>
+    </x-slot>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Encuesta de Satisfacción</title>
@@ -9,6 +14,7 @@
         .hidden { display: none; }
     </style>
 </head>
+<center>
 <body class="bg-gray-100 flex items-center justify-center min-h-screen">
     <div class="w-full max-w-4xl bg-white p-8 rounded-lg shadow-lg">
         <h2 class="text-2xl font-bold text-gray-800 text-center mb-6">Encuesta para Participantes Inscritos</h2>
@@ -396,5 +402,6 @@
         // Mostrar la primera sección al cargar
         showSection(currentSection);
     </script>
+    </center>
 </body>
-</html>
+</x-appDocente-layout>
